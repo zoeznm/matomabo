@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.card1 {
+  position: absolute;
+  width: 300px;
+  left: 700px;
+  top: 130px;
+  z-index: 1;
+}
+.card2 {
+  position: absolute;
+  width: 300px;
+  left: 500px;
+  top: 160px;
+}
